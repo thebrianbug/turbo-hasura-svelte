@@ -1,0 +1,11 @@
+{
+  "name": "hasura",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "hasura-cli": "^2.13.0"
+  }
+}
